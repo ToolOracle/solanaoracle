@@ -1,0 +1,12 @@
+{
+  "name": "SolanaOracle",
+  "description": "12 DeFi Risk & Intelligence MCP tools for Solana. Token risk scoring (Pump.fun screening), protocol health, wallet analysis, validator info, DEX volume, stablecoin risk.",
+  "repository": "https://github.com/ToolOracle/solanaoracle",
+  "homepage": "https://tooloracle.io",
+  "author": "ToolOracle",
+  "license": "MIT",
+  "tags": ["solana", "defi", "risk", "mcp", "ai-agent", "pump-fun", "web3", "compliance"],
+  "tools": 12,
+  "transport": "streamable-http",
+  "endpoint": "https://tooloracle.io/solana/mcp/"
+}
