@@ -1,0 +1,5 @@
+name: SolanaOracle
+description: Solana network intelligence — 9 tools
+endpoint: https://tooloracle.io/sol/mcp/
+transport: streamable-http
+license: MIT
