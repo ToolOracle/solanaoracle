@@ -1,0 +1,11 @@
+{
+  "schema_version": "v2.0.0",
+  "name": "io.tooloracle/solanaoracle",
+  "description": "SolanaOracle \u2014 Solana network intelligence: TPS, validator health, token screening, DeFi yields. 9 tools.",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://tooloracle.io/sol/mcp/"
+    }
+  ]
+}
